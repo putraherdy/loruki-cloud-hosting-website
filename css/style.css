@@ -149,7 +149,7 @@ code, pre {
 /* Stats */
 .stats {
     padding-top: 100px;
-    animation: slideInFromButtom 1s ease-in;
+    animation: slideInFromBottom 1s ease-in;
 }
 
 .stats-heading {
